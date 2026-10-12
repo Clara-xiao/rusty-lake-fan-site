@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>互动 · 锈湖 Rusty Lake</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <header class="nav">
+    <a href="index.html" class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></a>
+    <button class="burger" aria-label="菜单"><i></i><i></i><i></i></button>
+    <ul>
+      <li><a href="index.html">首页</a></li>
+      <li><a href="about.html">关于</a></li>
+      <li><a href="works.html">年表</a></li>
+      <li><a href="cube.html">逃离方块</a></li>
+      <li><a href="lake.html">主线</a></li>
+      <li><a href="characters.html">人物</a></li>
+      <li><a href="lore.html">世界观</a></li>
+      <li><a href="gallery.html">图集</a></li>
+      <li><a href="media.html">影音</a></li>
+      <li><a href="interact.html">互动</a></li>
+    </ul>
+  </header>
+
+  <section class="page-head">
+    <div class="en reveal">Interact</div>
+    <h1 class="reveal">湖边小憩</h1>
+    <p class="reveal">做一份小测验，再给湖边的旅人留一句话。</p>
+  </section>
+
+  <section class="section">
+    <div class="section-title reveal"><div class="en">Quiz</div><h2>你有多了解锈湖</h2></div>
+    <div class="quiz reveal" id="quiz">
+      <div class="progress"><i></i></div>
+      <div class="q-fade"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-title reveal"><div class="en">Guestbook</div><h2>留言板</h2></div>
+    <div class="guest">
+      <form id="guest-form" class="reveal left">
+        <label for="gname">你的名字</label>
+        <input id="gname" name="name" maxlength="20" placeholder="湖边的旅人" required>
+        <label for="gfav">最喜欢的作品</label>
+        <select id="gfav" name="fav"><option>逃离方块系列</option><option>锈湖旅馆</option><option>锈湖：根源</option><option>锈湖：天堂岛</option><option>The Past Within</option><option>Underground Blossom</option></select>
+        <label for="gtext">留言</label>
+        <textarea id="gtext" name="text" maxlength="200" placeholder="写下你想说的话……" required></textarea>
+        <button class="btn" type="submit">投入湖中</button>
+      </form>
+      <div class="msgs reveal right" id="msgs"></div>
+    </div>
+  </section>
+
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></div>
+    <nav><a href="index.html">首页</a> <a href="about.html">关于</a> <a href="works.html">年表</a> <a href="cube.html">逃离方块</a> <a href="lake.html">主线</a> <a href="characters.html">人物</a> <a href="lore.html">世界观</a> <a href="gallery.html">图集</a> <a href="media.html">影音</a> <a href="interact.html">互动</a></nav>
+    <p>锈湖主题粉丝网站 · 网页设计结课作业</p>
+    <small>本站为非官方学习作品，游戏名称与相关素材版权归 Rusty Lake 所有。</small>
+  </footer>
+
+  <button class="to-top" aria-label="回到顶部">↑</button>
+  <script src="main.js"></script>
+</body>
+</html>

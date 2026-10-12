@@ -1,0 +1,212 @@
+[
+  {
+    "file": "rec-hotel.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/header.jpg?t=1746052885",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "rec-roots.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/ss_808a22fcb1810621c0373cadc8049ce02aa2dcd0.1920x1080.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "rec-paradise.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_7d85b69aca60e054585a5527093fc386ce806bf5.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "rec-paradox.jpg",
+    "game": "Cube Escape: Paradox",
+    "store": "https://store.steampowered.com/app/909080/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_5276dcc33ab2773f85193af67c8704f5341e3a46.1920x1080.jpg?t=1667254447",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "rec-blossom.jpg",
+    "game": "Underground Blossom",
+    "store": "https://store.steampowered.com/app/2291850/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291850/ss_21f96a5e80cb0c93645927ceeefd0b0a0adf9f83.1920x1080.jpg?t=1713632188",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "door-cube.jpg",
+    "game": "Cube Escape Collection",
+    "store": "https://store.steampowered.com/app/1292940/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292940/header.jpg?t=1714036882",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "door-lake.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/header.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "door-lore.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_f7add9a3e048324f1335a6ff62dd7abda3ab3bfe.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "hotel.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/ss_ddbace00da54ba1bbfec474bed6a80d50e187a9e.1920x1080.jpg?t=1746052885",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "roots.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/ss_808a22fcb1810621c0373cadc8049ce02aa2dcd0.1920x1080.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "paradise.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_60ed99683e93b4fd0f147740d764786f5985fcd8.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "pastwithin.jpg",
+    "game": "The Past Within",
+    "store": "https://store.steampowered.com/app/1515210/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_41cac8c12c95f4f820e3f6526340d8b86862d9e4.1920x1080.jpg?t=1740070156",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "blossom.jpg",
+    "game": "Underground Blossom",
+    "store": "https://store.steampowered.com/app/2291850/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291850/ss_65b5dd4e978e1d061b53b034d74424916982fc74.1920x1080.jpg?t=1713632188",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "studio.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/ss_5c8740c7585617466e7cc49ad6b2038537d11898.1920x1080.jpg?t=1746052885",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "style.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/ss_051f7a9e9b787f8da0e825ac76cac6535f5e6324.1920x1080.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g1.jpg",
+    "game": "Cube Escape Collection",
+    "store": "https://store.steampowered.com/app/1292940/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292940/ss_b52e0ce0a5c893d3a0ea26f14df9cf4c9b307d32.1920x1080.jpg?t=1714036882",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g2.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/ss_ddbace00da54ba1bbfec474bed6a80d50e187a9e.1920x1080.jpg?t=1746052885",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g3.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/ss_808a22fcb1810621c0373cadc8049ce02aa2dcd0.1920x1080.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g4.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_7d85b69aca60e054585a5527093fc386ce806bf5.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g5.jpg",
+    "game": "Cube Escape Collection",
+    "store": "https://store.steampowered.com/app/1292940/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292940/ss_db5ac260626fb838726ef281a72847d325fa4616.1920x1080.jpg?t=1714036882",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g6.jpg",
+    "game": "Cube Escape Collection",
+    "store": "https://store.steampowered.com/app/1292940/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292940/ss_f9b941200483fe53f3a9f051dddcebb1af292f05.1920x1080.jpg?t=1714036882",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g7.jpg",
+    "game": "The Past Within",
+    "store": "https://store.steampowered.com/app/1515210/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5c5a0842e7ad3a2c1a44f5ce4346c61073f4903a.1920x1080.jpg?t=1740070156",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g8.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_7ea469dcc88a82691e2cf35070e98093baac6110.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "g9.jpg",
+    "game": "Underground Blossom",
+    "store": "https://store.steampowered.com/app/2291850/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291850/ss_21f96a5e80cb0c93645927ceeefd0b0a0adf9f83.1920x1080.jpg?t=1713632188",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "laura.jpg",
+    "game": "Underground Blossom",
+    "store": "https://store.steampowered.com/app/2291850/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291850/ss_21f96a5e80cb0c93645927ceeefd0b0a0adf9f83.1920x1080.jpg?t=1713632188",
+    "note": "相关作品场景，非角色头像"
+  },
+  {
+    "file": "dale.jpg",
+    "game": "Cube Escape: Paradox",
+    "store": "https://store.steampowered.com/app/909080/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_7bbfa3807c25694c2c8db8167813b1749285870a.1920x1080.jpg?t=1667254447",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "crow.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/ss_573afc967c06256212f37f6deb04498ad4627f90.1920x1080.jpg?t=1746052885",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "owl.jpg",
+    "game": "Rusty Lake Hotel",
+    "store": "https://store.steampowered.com/app/435120/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435120/header.jpg?t=1746052885",
+    "note": "相关作品场景，非角色头像"
+  },
+  {
+    "file": "vanderboom.jpg",
+    "game": "Rusty Lake: Roots",
+    "store": "https://store.steampowered.com/app/532110/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532110/ss_808a22fcb1810621c0373cadc8049ce02aa2dcd0.1920x1080.jpg?t=1746052939",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  },
+  {
+    "file": "eilander.jpg",
+    "game": "Rusty Lake Paradise",
+    "store": "https://store.steampowered.com/app/744190/",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744190/ss_60ed99683e93b4fd0f147740d764786f5985fcd8.1920x1080.jpg?t=1746052913",
+    "note": "Steam 官方商店素材；部分图片裁切"
+  }
+]

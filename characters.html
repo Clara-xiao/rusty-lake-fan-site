@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>人物 · 锈湖 Rusty Lake</title>
+  <link rel="stylesheet" href="style.css">
+<style>.person:has([data-scene]) h3::after{content:"相关作品配图";display:block;font-size:11px;font-weight:400;opacity:.65;margin-top:8px}</style>
+</head>
+<body>
+
+  <!-- 导航栏 -->
+  <header class="nav">
+    <a href="index.html" class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></a>
+    <button class="burger" aria-label="菜单"><i></i><i></i><i></i></button>
+    <ul>
+      <li><a href="index.html">首页</a></li>
+      <li><a href="about.html">关于</a></li>
+      <li><a href="works.html">年表</a></li>
+      <li><a href="cube.html">逃离方块</a></li>
+      <li><a href="lake.html">主线</a></li>
+      <li><a href="characters.html">人物</a></li>
+      <li><a href="lore.html">世界观</a></li>
+      <li><a href="gallery.html">图集</a></li>
+      <li><a href="media.html">影音</a></li>
+      <li><a href="interact.html">互动</a></li>
+    </ul>
+  </header>
+
+  <section class="page-head">
+    <div class="en reveal">Characters</div>
+    <h1 class="reveal">人物图鉴</h1>
+    <p class="reveal">点开卡片，看看湖边都住着谁。</p>
+  </section>
+
+  <section class="section">
+    <div class="grid">
+      <div class="card person reveal" data-meta="CUBE ESCAPE">
+        <div class="ph" data-img="images/laura.jpg" data-scene="true"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Laura 的旅途 · 相关作品场景<br>images/laura.jpg</div></div>
+        <div class="body"><h3>Laura Vanderboom</h3><div class="meta">CUBE ESCAPE</div><p>整个系列的核心人物</p></div>
+        <div class="more" hidden><p>她的人生与死亡，是“逃离方块”系列反复回到的谜题。</p><p>四季、湖边小屋、生日……许多作品都在从不同角度讲述她的故事。</p></div>
+      </div>
+      <div class="card person reveal" data-meta="DETECTIVE">
+        <div class="ph" data-img="images/dale.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Dale Vandermeer 头像<br>images/dale.jpg</div></div>
+        <div class="body"><h3>Dale Vandermeer</h3><div class="meta">DETECTIVE</div><p>追查真相的侦探</p></div>
+        <div class="more" hidden><p>他负责调查 Laura 的案件，越查越深，最终被卷入锈湖本身的谜团。</p><p>在《悖论》中，他被困在两个不同的时空里。</p></div>
+      </div>
+      <div class="card person reveal" data-meta="RECURRING">
+        <div class="ph" data-img="images/crow.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Mr. Crow 头像<br>images/crow.jpg</div></div>
+        <div class="body"><h3>Mr. Crow</h3><div class="meta">RECURRING</div><p>神秘的乌鸦先生</p></div>
+        <div class="more" hidden><p>一个总是出现在关键时刻的神秘角色，在多部作品里都能见到他。</p><p>他到底在为谁做事？玩家们至今仍在讨论。</p></div>
+      </div>
+      <div class="card person reveal" data-meta="RECURRING">
+        <div class="ph" data-img="images/owl.jpg" data-scene="true"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>锈湖旅馆 · 相关作品封面<br>images/owl.jpg</div></div>
+        <div class="body"><h3>Mr. Owl</h3><div class="meta">RECURRING</div><p>神秘的猫头鹰先生</p></div>
+        <div class="more" hidden><p>另一位反复出现的动物面具角色，身份同样成谜，常与乌鸦先生一同被玩家提起。</p></div>
+      </div>
+      <div class="card person reveal" data-meta="ROOTS">
+        <div class="ph" data-img="images/vanderboom.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Vanderboom 家族 头像<br>images/vanderboom.jpg</div></div>
+        <div class="body"><h3>Vanderboom 家族</h3><div class="meta">ROOTS</div><p>一棵树上的几代人</p></div>
+        <div class="more" hidden><p>在《根源》中，玩家会陪着这个家族经历好几代人的悲欢。</p><p>家族的选择，和锈湖的秘密紧紧缠在一起。</p></div>
+      </div>
+      <div class="card person reveal" data-meta="PARADISE">
+        <div class="ph" data-img="images/eilander.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Eilander 家族 头像<br>images/eilander.jpg</div></div>
+        <div class="body"><h3>Eilander 家族</h3><div class="meta">PARADISE</div><p>天堂岛上的家族</p></div>
+        <div class="more" hidden><p>《天堂岛》的故事发生在这个家族居住的小岛上。</p><p>回到故乡的主角，需要一步步解除笼罩在岛上的灾难。</p></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="modal" id="modal">
+    <div class="modal-box">
+      <button class="modal-close" aria-label="关闭">×</button>
+      <div class="ph"></div>
+      <div class="txt"><div class="meta"></div><h3></h3><div class="m-text"></div></div>
+    </div>
+  </div>
+
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></div>
+    <nav><a href="index.html">首页</a> <a href="about.html">关于</a> <a href="works.html">年表</a> <a href="cube.html">逃离方块</a> <a href="lake.html">主线</a> <a href="characters.html">人物</a> <a href="lore.html">世界观</a> <a href="gallery.html">图集</a> <a href="media.html">影音</a> <a href="interact.html">互动</a></nav>
+    <p>锈湖主题粉丝网站 · 网页设计结课作业</p>
+    <small>本站为非官方学习作品，游戏名称与相关素材版权归 Rusty Lake 所有。</small>
+  </footer>
+
+  <button class="to-top" aria-label="回到顶部">↑</button>
+  <script src="main.js"></script>
+</body>
+</html>

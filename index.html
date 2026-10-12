@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>首页 · 锈湖 Rusty Lake</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="loader"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div><p>RUSTY LAKE</p></div>
+
+  <!-- 导航栏 -->
+  <header class="nav">
+    <a href="index.html" class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></a>
+    <button class="burger" aria-label="菜单"><i></i><i></i><i></i></button>
+    <ul>
+      <li><a href="index.html">首页</a></li>
+      <li><a href="about.html">关于</a></li>
+      <li><a href="works.html">年表</a></li>
+      <li><a href="cube.html">逃离方块</a></li>
+      <li><a href="lake.html">主线</a></li>
+      <li><a href="characters.html">人物</a></li>
+      <li><a href="lore.html">世界观</a></li>
+      <li><a href="gallery.html">图集</a></li>
+      <li><a href="media.html">影音</a></li>
+      <li><a href="interact.html">互动</a></li>
+    </ul>
+  </header>
+
+  <section class="hero">
+    <div class="cube-wrap reveal zoom"><div class="cube big"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>
+    <h1 class="reveal">RUSTY LAKE</h1>
+    <h2 class="reveal">锈湖</h2>
+    <p class="reveal">每一段记忆，最后都会沉进湖底。</p>
+    <span class="ripple"></span><span class="ripple"></span><span class="ripple"></span>
+    <div class="scroll-hint">SCROLL</div>
+  </section>
+
+  <section class="section">
+    <div class="section-title reveal"><div class="en">Welcome</div><h2>欢迎来到锈湖</h2></div>
+    <p class="lead reveal">锈湖是来自荷兰阿姆斯特丹的一家独立游戏工作室，也是他们笔下那片湖的名字。
+      从 2015 年的第一个小方块开始，这片湖边陆续出现了旅馆、家族、小岛和一桩桩悬案。
+      它们彼此独立，却又被同一片湖水暗暗连在一起。</p>
+    <div class="btn-row reveal"><a class="btn" href="about.html">了解工作室</a><a class="btn" href="works.html">浏览作品年表</a></div>
+  </section>
+
+  <!-- 热门推荐：漂浮光尘背景 + 拼贴卡片 + 悬停浮现 -->
+  <section class="recommend">
+    <canvas class="dust"></canvas>
+    <div class="rec-title reveal"><h2>热门推荐</h2><span>RECOMMEND</span></div>
+    <div class="rec-grid">
+      <a class="rec-card reveal big" href="lake.html">
+        <div class="ph" data-img="images/rec-hotel.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>锈湖旅馆 配图<br>images/rec-hotel.jpg</div></div>
+        <div class="rec-info">
+          <h3>《锈湖旅馆》</h3><p class="rec-en">Rusty Lake Hotel</p><i class="rec-line"></i>
+          <p class="rec-desc">五位戴着动物面具的客人，五顿晚餐。你端上桌的，真的只是食物吗？</p><span class="rec-go">›</span>
+        </div>
+      </a>
+      <a class="rec-card reveal" href="lake.html">
+        <div class="ph" data-img="images/rec-roots.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>锈湖：根源 配图<br>images/rec-roots.jpg</div></div>
+        <div class="rec-info">
+          <h3>《锈湖：根源》</h3><p class="rec-en">Rusty Lake: Roots</p><i class="rec-line"></i>
+          <p class="rec-desc">一颗种子长成一棵家族树。每一根枝条，都连着一段出生和一段死亡。</p><span class="rec-go">›</span>
+        </div>
+      </a>
+      <a class="rec-card reveal" href="lake.html">
+        <div class="ph" data-img="images/rec-paradise.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>锈湖：天堂岛 配图<br>images/rec-paradise.jpg</div></div>
+        <div class="rec-info">
+          <h3>《锈湖：天堂岛》</h3><p class="rec-en">Rusty Lake Paradise</p><i class="rec-line"></i>
+          <p class="rec-desc">十场灾难接连降临小岛，这个家族究竟在隐瞒什么？</p><span class="rec-go">›</span>
+        </div>
+      </a>
+      <a class="rec-card reveal" href="cube.html">
+        <div class="ph" data-img="images/rec-paradox.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>逃离方块：悖论 配图<br>images/rec-paradox.jpg</div></div>
+        <div class="rec-info">
+          <h3>《逃离方块：悖论》</h3><p class="rec-en">Cube Escape: Paradox</p><i class="rec-line"></i>
+          <p class="rec-desc">侦探被困在两个时空之间。想要逃出去，就得先弄清自己是谁。</p><span class="rec-go">›</span>
+        </div>
+      </a>
+      <a class="rec-card reveal" href="works.html">
+        <div class="ph" data-img="images/rec-blossom.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>Underground Blossom 配图<br>images/rec-blossom.jpg</div></div>
+        <div class="rec-info">
+          <h3>《Underground Blossom》</h3><p class="rec-en">Underground Blossom</p><i class="rec-line"></i>
+          <p class="rec-desc">列车每停一站，就是一段人生。你会在哪一站下车？</p><span class="rec-go">›</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-title reveal"><div class="en">Three Doors</div><h2>从哪一扇门进入</h2></div>
+    <div class="grid three">
+      <a class="door reveal" href="cube.html"><div class="ph" data-img="images/door-cube.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>逃离方块系列封面<br>images/door-cube.jpg</div></div>
+        <div class="cap"><span>CUBE ESCAPE</span><h3>逃离方块</h3><p>一个个方形房间里的短篇谜题，故事从这里开始。</p></div></a>
+      <a class="door reveal" href="lake.html"><div class="ph" data-img="images/door-lake.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>锈湖主线封面<br>images/door-lake.jpg</div></div>
+        <div class="cap"><span>RUSTY LAKE</span><h3>锈湖主线</h3><p>旅馆、家族树与天堂岛，三部完整的长篇冒险。</p></div></a>
+      <a class="door reveal" href="lore.html"><div class="ph" data-img="images/door-lore.jpg"><div class="ph-inner"></div><div class="ph-label"><b>▢</b>世界观配图<br>images/door-lore.jpg</div></div>
+        <div class="cap"><span>THE LORE</span><h3>湖底之谜</h3><p>黑色方块、记忆与永生，把散落的线索拼在一起。</p></div></a>
+    </div>
+  </section>
+
+  <section class="quote reveal">“ 有些门，打开之前最好先想清楚。 ”<small>— 致每一位湖边的访客</small></section>
+
+  <section class="section">
+    <div class="section-title reveal"><div class="en">By the Numbers</div><h2>湖边的数字</h2></div>
+    <div class="stats">
+      <div class="stat reveal"><div class="num" data-count="2015">2015</div><p>工作室成立</p></div>
+      <div class="stat reveal"><div class="num" data-count="19">19</div><p>同一宇宙下的作品（截至 2025）</p></div>
+      <div class="stat reveal"><div class="num" data-count="11">11</div><p>逃离方块系列作品</p></div>
+      <div class="stat reveal"><div class="num" data-count="3">3</div><p>早期付费长篇</p></div>
+    </div>
+  </section>
+
+
+  <!-- 页脚 -->
+  <footer class="footer">
+    <div class="brand"><div class="cube-wrap"><div class="cube"><span></span><span></span><span></span><span></span><span></span><span></span></div></div>RUSTY LAKE <small>锈湖</small></div>
+    <nav><a href="index.html">首页</a> <a href="about.html">关于</a> <a href="works.html">年表</a> <a href="cube.html">逃离方块</a> <a href="lake.html">主线</a> <a href="characters.html">人物</a> <a href="lore.html">世界观</a> <a href="gallery.html">图集</a> <a href="media.html">影音</a> <a href="interact.html">互动</a></nav>
+    <p>锈湖主题粉丝网站 · 网页设计结课作业</p>
+    <small>本站为非官方学习作品，游戏名称与相关素材版权归 Rusty Lake 所有。</small>
+  </footer>
+
+  <button class="to-top" aria-label="回到顶部">↑</button>
+  <script src="main.js"></script>
+</body>
+</html>
